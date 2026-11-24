@@ -1,0 +1,13 @@
+payer_id,payer_name,channel,covered_lives_m
+P01,Payer A,Commercial,12.5
+P02,Payer B,Commercial,9.8
+P03,Payer C,Commercial,7.1
+P04,Payer D,Commercial,4.4
+P05,Payer E,Commercial,3.0
+P06,Payer F,Commercial,1.6
+P07,Payer G,Medicare Part D,6.2
+P08,Payer H,Medicare Part D,4.9
+P09,Payer I,Medicare Part D,2.7
+P10,Payer J,Medicare Part D,1.3
+P11,Payer K,Medicaid,5.5
+P12,Payer L,Medicaid,3.8
